@@ -1,16 +1,16 @@
-### Hi there 👋
+##                  Hi there 👋, Welcome to my Profile!
 
-<!--
-**Adonides/Adonides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###    I am taught self web developer, always looking for new challengers
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my personal projects.
+- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 👯 I’m looking to collaborate on new ideias and challengers.
+- 🤔 I’m looking for junior web developer opportunity.
+- 😄 I would like to get know people with similar interest.
+- ⚡ Fun fact: I like discussions! 😄
+
+- 📫 How to reach me: webprojects.js@yahoo.com
+
+
+
